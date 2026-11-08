@@ -35,7 +35,7 @@ Student-Registration-System/
 ```
 
 ## Requirements
-- Python 3.9 or newer
+- Python 3.10 or newer
 - No third-party packages required.
 
 ## Run the project
